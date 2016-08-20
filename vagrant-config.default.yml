@@ -1,0 +1,6 @@
+server_name: 'open-fec-dev'
+cpus: 2
+memory_size: 2048
+ip_address: 172.168.5.100
+host_http_port: 8080
+host_db_port: 5432
